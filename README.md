@@ -1,2 +1,2 @@
 # lazyeyesdao.github.io
-Lazy Eyes NFT
+Lazy Eyes NFT - https://lazyeyes.site/
