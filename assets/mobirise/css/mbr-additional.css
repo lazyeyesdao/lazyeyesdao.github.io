@@ -722,26 +722,23 @@ a {
     width: 100%;
   }
 }
-.cid-sYbBFjB3FY {
-  padding-top: 4rem;
-  padding-bottom: 4rem;
+.cid-sYdASXp5Rt .mbr-section-title {
+  color: #ffffff;
+}
+.cid-sYdASXp5Rt .mbr-text,
+.cid-sYdASXp5Rt .mbr-section-btn {
+  color: #fafafa;
+}
+.cid-sYpZs9EEp5 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
   background-color: #292552;
 }
-.cid-sYbBFjB3FY .mbr-text,
-.cid-sYbBFjB3FY .mbr-section-btn {
-  color: #232323;
-}
-.cid-sYbBFjB3FY .card-title,
-.cid-sYbBFjB3FY .card-box {
+.cid-sYpZs9EEp5 .mbr-section-title {
   color: #ffffff;
 }
-.cid-sYbBFjB3FY .mbr-text,
-.cid-sYbBFjB3FY .link-wrap {
-  color: #ffffff;
-}
-.cid-sYbBFjB3FY .card-box .mbr-text,
-.cid-sYbBFjB3FY .mbr-section-btn {
-  color: #ffffff;
+.cid-sYpZs9EEp5 .mbr-section-subtitle {
+  color: #fafafa;
 }
 .cid-sWk4hUpMUI {
   padding-top: 3rem;
@@ -766,7 +763,7 @@ a {
 }
 .cid-sWk4hUpMUI .mbr-text,
 .cid-sWk4hUpMUI .mbr-section-btn {
-  color: #ffffff;
+  color: #fafafa;
 }
 .cid-sYdubg7KXK {
   padding-top: 5rem;
@@ -809,6 +806,10 @@ a {
 .cid-sYdubg7KXK .mbr-section-btn {
   color: #fafafa;
 }
+.cid-sYdubg7KXK .card-title,
+.cid-sYdubg7KXK .card-img {
+  color: #ffffff;
+}
 .cid-sYpIMphH7R {
   padding-top: 0rem;
   padding-bottom: 0rem;
@@ -843,18 +844,26 @@ a {
   color: #ffffff;
 }
 .cid-sYpIMphH7R .card-text {
+  color: #fafafa;
+}
+.cid-sYpIMphH7R .mbr-section-title,
+.cid-sYpIMphH7R .card-box {
   color: #ffffff;
 }
+.cid-sYpIMphH7R .mbr-text,
+.cid-sYpIMphH7R .mbr-section-btn {
+  color: #fafafa;
+}
 .cid-sYppuzTcjw {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-top: 5rem;
+  padding-bottom: 3rem;
   background-image: url("../../../assets/images/party.svg");
 }
 .cid-sYppuzTcjw .mbr-section-title {
   color: #6592e6;
 }
 .cid-sYppuzTcjw .mbr-section-subtitle {
-  color: #ffffff;
+  color: #fafafa;
 }
 .cid-sWk9JJzix5 {
   padding-top: 3rem;
@@ -955,6 +964,10 @@ a {
 }
 .cid-sYdX5QcPzx .card-text,
 .cid-sYdX5QcPzx .mbr-section-btn,
+.cid-sYdX5QcPzx .social-row {
+  color: #fafafa;
+}
+.cid-sYdX5QcPzx .card-title,
 .cid-sYdX5QcPzx .social-row {
   color: #ffffff;
 }
